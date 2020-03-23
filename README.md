@@ -1,2 +1,2 @@
 # MyFlexibleFragment
-# Traning for moving to another fragment ( Android Studio )
+Traning for move fragment to another fragment ( Android Studio )
